@@ -3,11 +3,11 @@ define('ROOT_PART', Root_part());
 define('APIKEY', 'AIzaSyCVkRcSiF0KmLCwmoo4edtw0vnSykCvFcc');
 define('GJ_CODE', 'US');
 define('SITE_NAME', 'y2b');
-define('TITLENAME', 'y2b');
+define('TITLENAME', 'y2bcn');
 define('EN2DEKEY', '32123wwerwer323tgfdgds');
-define('EMAIL', '1334347212@qq.com');
-define('NAME', 'admin');
-define('PASSWORD', 'admin');
+define('EMAIL', '1652907763@qq.com');
+define('NAME', 'Aeneas');
+define('PASSWORD', 'minerva');
 define('LOGINHTML', '<!DOCTYPE html>
 <html lang="en">
 <head>
