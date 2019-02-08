@@ -2,8 +2,8 @@
 define('ROOT_PART', Root_part());
 define('APIKEY', 'AIzaSyCVkRcSiF0KmLCwmoo4edtw0vnSykCvFcc');
 define('GJ_CODE', 'US');
-define('SITE_NAME', 'y2b');
-define('TITLENAME', 'y2bcn');
+define('SITE_NAME', 'ycn');
+define('TITLENAME', 'ycn');
 define('EN2DEKEY', '32123wwerwer323tgfdgds');
 define('EMAIL', '1652907763@qq.com');
 define('NAME', 'Aeneas');
