@@ -6,8 +6,8 @@ define('SITE_NAME', 'ycn');
 define('TITLENAME', 'ycn');
 define('EN2DEKEY', '32123wwerwer323tgfdgds');
 define('EMAIL', '1652907763@qq.com');
-define('NAME', 'Aeneas');
-define('PASSWORD', 'minerva');
+define('NAME', 'admin');
+define('PASSWORD', 'linxiaofeng');
 define('LOGINHTML', '<!DOCTYPE html>
 <html lang="en">
 <head>
